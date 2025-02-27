@@ -33,7 +33,7 @@
   * [X] Terminal Tutor (https://www.terminaltutor.com)
 
 
-* [ ] Choix de son éditeur, configuration et customisation
+* [X] Choix de son éditeur, configuration et customisation
 * [ ] Choix / installation d'un terminal (Linux, Mac ou Windows)
 
 * [ ] Comprendre l'intérêt des raccourcis clavier
