@@ -28,9 +28,9 @@
   * [X] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
   * [X] Comprendre comment fonctionne un shell
   * [X] Comprendre le fonctionnement des alias
-  * [ ] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
-  * [ ] Comprendre le principe des options dans les commandes
-  * [ ] Terminal Tutor (https://www.terminaltutor.com)
+  * [X] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
+  * [X] Comprendre le principe des options dans les commandes
+  * [X] Terminal Tutor (https://www.terminaltutor.com)
 
 
 * [ ] Choix de son éditeur, configuration et customisation
