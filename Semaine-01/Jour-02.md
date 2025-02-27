@@ -39,6 +39,6 @@
 * [X] Comprendre l'intérêt des raccourcis clavier
 * [X] Découverte des raccourcis clavier Linux : 
   * [X] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
-  * [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
+  * [X] Terminal (fenêtres, onglets, commandes)
+  * [X] Découverte et installation de Albert (Linux) / Alfred (Mac)
 
