@@ -11,12 +11,12 @@
 
 #### Environnement de travail
 
-* [ ] Configuration de son environnement de travail
-  * [ ] Mise à jour OS (Linux, Windows, Mac)
-  * [ ] Installation (Discord)
-  * [ ] Installation navigateur (Developper Edition)
-  * [ ] Création et configuration Mail pro 
-  * [ ] Création et configuration Twitter pro 
+* [X] Configuration de son environnement de travail
+  * [X] Mise à jour OS (Linux, Windows, Mac)
+  * [X] Installation (Discord)
+  * [X] Installation navigateur (Developper Edition)
+  * [X] Création et configuration Mail pro 
+  * [X] Création et configuration Twitter pro 
 
 * [ ] Découverte de Linux :
   * [ ] Savoir ce qu'est Linux
