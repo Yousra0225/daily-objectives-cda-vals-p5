@@ -36,7 +36,7 @@
 * [X] Choix de son éditeur, configuration et customisation
 * [X] Choix / installation d'un terminal (Linux, Mac ou Windows)
 
-* [ ] Comprendre l'intérêt des raccourcis clavier
+* [X] Comprendre l'intérêt des raccourcis clavier
 * [ ] Découverte des raccourcis clavier Linux : 
   * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
   * [ ] Terminal (fenêtres, onglets, commandes)
