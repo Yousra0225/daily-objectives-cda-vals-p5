@@ -2,7 +2,7 @@
 
 ### Jeudi 27/02/2025 :
 
-- [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+- [X] Faire le wargame bandit jusqu'au niveau 5 (anglais)
 
 Seulement si le wargame bandit est au niveau 5 minimum :
 
