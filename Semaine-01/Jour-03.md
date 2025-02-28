@@ -25,9 +25,9 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 - [ ] Faire le parcours Git-it pour les débutants (Nodeschool.io)
 - [X] Faire ses premiers commits sur les daily objectives
 - [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
-- [ ] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
+- [X] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
 
-* [ ] Comprendre les termes "local", "origin" et "upstream"
+* [X] Comprendre les termes "local", "origin" et "upstream"
 * [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
 * [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
 * [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
