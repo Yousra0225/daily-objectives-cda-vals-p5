@@ -31,9 +31,9 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 * [X] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
 * [X] Faire ses premiers pushs des daily-objectives sur son compte Github
 * [X] Découvrir les conventions de nommage de son versionning avec la convention Angular :
-  - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
-  - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
-  - [ ] Renommer son dernier commit en respectant cette convention
+  - [X] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
+  - [X] https://www.conventionalcommits.org/fr/v1.0.0/
+  - [X] Renommer son dernier commit en respectant cette convention
 * [ ] Comprendre le fonctionnement des branches dans Git :
   - [ ] Lister, changer, créer, supprimer des branches
   - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
