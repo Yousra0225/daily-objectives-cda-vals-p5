@@ -6,7 +6,7 @@
 
 - [X] Comprendre pourquoi on met en place une méthodologie de projet
 - [X] Méthodologies traditionnelles
-- [ ] Agilité
+- [X] Agilité
   - [ ] Quels sont les grands principes ?
   - [ ] Découvrir les principales méthodes Agile
 - [ ] Découverte de la méthodologie SCRUM
