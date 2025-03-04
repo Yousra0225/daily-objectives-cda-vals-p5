@@ -5,7 +5,7 @@
 ### Découvertes des méthodologies
 
 - [X] Comprendre pourquoi on met en place une méthodologie de projet
-- [ ] Méthodologies traditionnelles
+- [X] Méthodologies traditionnelles
 - [ ] Agilité
   - [ ] Quels sont les grands principes ?
   - [ ] Découvrir les principales méthodes Agile
