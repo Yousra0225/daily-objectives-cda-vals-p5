@@ -13,9 +13,9 @@
   - [X] Les rôles de chacun
   - [X] les rituels à appliquer
   - [X] pourquoi fait-on du SCRUM ?
-- [ ] Découverte de la méthode KANBAN
-  - [ ] Découvrir les objectifs
-  - [ ] Comprendre les règles qui s'appliquent ?
+- [X] Découverte de la méthode KANBAN
+  - [X] Découvrir les objectifs
+  - [X] Comprendre les règles qui s'appliquent ?
 - [ ] Savoir quelle méthode utilisée à quel moment
 - [ ] Comprendre le vocabulaire de la méthode
   - [ ] Ce qu'est une User Story et comment la construit-on
