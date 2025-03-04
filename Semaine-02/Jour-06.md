@@ -15,7 +15,7 @@
 - [X] Comprendre la différence entre `git log` et `git show` + les flags principaux
 - [X] Comprendre et utiliser le `git fetch`
 - [X] `.gitignore` global ou pas ?
-- [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
+- [X] Comprendre quelle est la différence entre `git pull` et `git fetch`
   - [ ] À quoi sert la commande `git fetch —prune`
   - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
 
