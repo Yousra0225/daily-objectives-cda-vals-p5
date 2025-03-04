@@ -18,7 +18,7 @@
   - [X] Comprendre les règles qui s'appliquent ?
 - [X] Savoir quelle méthode utilisée à quel moment
 - [X] Comprendre le vocabulaire de la méthode
-  - [ ] Ce qu'est une User Story et comment la construit-on
-  - [ ] Ce qu'est la backlog
-  - [ ] Ce qu'est un sprint
-- [ ] Etudier en détail le Scrum Planning
+  - [X] Ce qu'est une User Story et comment la construit-on
+  - [X] Ce qu'est la backlog
+  - [X] Ce qu'est un sprint
+- [X] Etudier en détail le Scrum Planning
