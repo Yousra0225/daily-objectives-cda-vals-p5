@@ -22,9 +22,9 @@
   - [ ] Aliases
   - [ ] Comprendre la différence entre config locale, globale et système
 - [ ] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
-- [ ] Savoir travailler avec `git fetch`
+- [X] Savoir travailler avec `git fetch`
 
 ### IA
 
-- [ ] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
+- [X] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
 - [ ] Partager ses trucs et astuces sur l'utilisation des IAs
