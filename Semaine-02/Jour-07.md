@@ -9,7 +9,7 @@
   - [X] Installation et connexion
   - [X] Faire le tour du propriétaire
   - [X] Intégration de `gh` dans son workflow
-  - [ ] Finalisation et optimisation de son profile Github
+  - [X] Finalisation et optimisation de son profile Github
 
 ### Configuration et Workflow Git
 
