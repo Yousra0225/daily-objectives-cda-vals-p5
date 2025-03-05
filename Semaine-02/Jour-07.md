@@ -4,7 +4,7 @@
 
 ### Github CLI et Profil (approfondissement)
 
-- [ ] Découverte approfondie de Github CLI
+- [X] Découverte approfondie de Github CLI
   - [ ] Créer un cheat sheet sur Github CLI (individuel)
   - [ ] Installation et connexion
   - [ ] Faire le tour du propriétaire
