@@ -17,11 +17,11 @@
 - [X] `.gitignore` global ou pas ?
 - [X] Comprendre quelle est la différence entre `git pull` et `git fetch`
   - [X] À quoi sert la commande `git fetch —prune`
-  - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
+  - [X] Comment configurer mon git pour que ce soit fait automatiquement ?
 
 
 
 ### Git avancé
 
-- [ ] Comprendre l'utilité et savoir utiliser `git cherry-pick`
-- [ ] Comprendre l'utilité et savoir utiliser `git bisect`
+- [X] Comprendre l'utilité et savoir utiliser `git cherry-pick`
+- [X] Comprendre l'utilité et savoir utiliser `git bisect`
