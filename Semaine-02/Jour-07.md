@@ -13,8 +13,8 @@
 
 ### Configuration et Workflow Git
 
-- [ ] Découverte de LazyGit
-  - [ ] Installation et configuration
+- [X] Découverte de LazyGit
+  - [X] Installation et configuration
   - [ ] Intégration dans son editeur / workflow
 - [ ] Configurer son git de manière avancée :
   - [ ] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
