@@ -6,9 +6,9 @@
 
 - [X] Découverte approfondie de Github CLI
   - [X] Créer un cheat sheet sur Github CLI (individuel)
-  - [ ] Installation et connexion
-  - [ ] Faire le tour du propriétaire
-  - [ ] Intégration de `gh` dans son workflow
+  - [X] Installation et connexion
+  - [X] Faire le tour du propriétaire
+  - [X] Intégration de `gh` dans son workflow
   - [ ] Finalisation et optimisation de son profile Github
 
 ### Configuration et Workflow Git
