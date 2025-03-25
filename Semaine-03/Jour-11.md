@@ -4,6 +4,6 @@
 
 - [X] Review du brief Cheat Sheet
 - [X] Ateliers sur la méthodelogie SCRUM
-	- [ ] Atelier de priorisation "Survie sur la Lune"
-	- [ ] Estimadog pour l'utilisation du Planning Poker
+	- [X] Atelier de priorisation "Survie sur la Lune"
+	- [X] Estimadog pour l'utilisation du Planning Poker
 
