@@ -24,9 +24,9 @@
     - [X] Spécifier les contraintes techniques
 
 ### Règles de gestion
-- [ ] Identification des règles de gestion :
-    - [ ] Préparer les règles métier et les processus existants
-    - [ ] Déterminer les contraintes légales et réglementaires
-    - [ ] Intégrer les standards et normes applicables
-    - [ ] Comprendre les politiques internes et les exigences spécifiques du client
+- [X] Identification des règles de gestion :
+    - [X] Préparer les règles métier et les processus existants
+    - [X] Déterminer les contraintes légales et réglementaires
+    - [X] Intégrer les standards et normes applicables
+    - [X] Comprendre les politiques internes et les exigences spécifiques du client
 
