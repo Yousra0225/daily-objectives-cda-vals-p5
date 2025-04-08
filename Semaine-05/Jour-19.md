@@ -17,11 +17,11 @@
     - [X] Évaluer l'impact de chaque solution
 
 ### Exigences fonctionnelles et non-fonctionnelles
-- [ ] Documentation des exigences :
-    - [ ] Catégoriser les exigences fonctionnelles
-    - [ ] Identifier les exigences non-fonctionnelles
-    - [ ] Définir les critères de performance
-    - [ ] Spécifier les contraintes techniques
+- [X] Documentation des exigences :
+    - [X] Catégoriser les exigences fonctionnelles
+    - [X] Identifier les exigences non-fonctionnelles
+    - [X] Définir les critères de performance
+    - [X] Spécifier les contraintes techniques
 
 ### Règles de gestion
 - [ ] Identification des règles de gestion :
