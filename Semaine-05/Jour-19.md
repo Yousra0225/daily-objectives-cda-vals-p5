@@ -10,11 +10,11 @@
     - [X] Prioriser les besoins en fonction de leur importance
 
 ### Tableau des problématiques
-- [ ] Identification et analyse :
-    - [ ] Lister les problèmes actuels du client
-    - [ ] Découper les problématiques en problèmes distincts
-    - [ ] Proposer des solutions théoriques
-    - [ ] Évaluer l'impact de chaque solution
+- [X] Identification et analyse :
+    - [X] Lister les problèmes actuels du client
+    - [X] Découper les problématiques en problèmes distincts
+    - [X] Proposer des solutions théoriques
+    - [X] Évaluer l'impact de chaque solution
 
 ### Exigences fonctionnelles et non-fonctionnelles
 - [ ] Documentation des exigences :
