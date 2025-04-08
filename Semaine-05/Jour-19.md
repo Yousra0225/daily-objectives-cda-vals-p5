@@ -6,8 +6,8 @@
 - [X] Recueil des besoins :
     - [X] Préparer le questionnaire du premier rendez-vous client (tech et non tech)
     - [X] Préparer la partie générique du mail récapitulatif après rendez-vous
-    - [ ] Collecter les exigences fonctionnelles et non fonctionnelles
-    - [ ] Prioriser les besoins en fonction de leur importance
+    - [X] Collecter les exigences fonctionnelles et non fonctionnelles
+    - [X] Prioriser les besoins en fonction de leur importance
 
 ### Tableau des problématiques
 - [ ] Identification et analyse :
