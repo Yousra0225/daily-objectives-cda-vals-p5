@@ -2,6 +2,6 @@
 
 ## Vendredi 04/04/2025 :
 
-- [ ] Hackaton
+- [X] Hackaton
 
 
