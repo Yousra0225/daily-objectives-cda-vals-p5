@@ -2,7 +2,7 @@
 
 ## Lundi 31/03/2025 :
 
-- [ ] Journée en autonomie pour finaliser le brief de la semaine précédente (Kéké Voyages) :
+- [X] Journée en autonomie pour finaliser le brief de la semaine précédente (Kéké Voyages) :
     - [X] Compléter les livrables manquants
     - [X] Vérifier la cohérence des documents
     - [X] Préparer la présentation finale
