@@ -10,12 +10,12 @@
   - [X] Avantages de Merise par rapport à d'autres méthodes
 
 ### Concepts de base de la modélisation des données
-- [ ] Comprendre les fondements de la modélisation des données
-  - [ ] Les entités et leurs attributs
-  - [ ] Les relations et leurs cardinalités
-  - [ ] Les identifiants et les clés
-  - [ ] Les formes normales (1FN, 2FN, 3FN)
-  - [ ] Les dépendances fonctionnelles
+- [X] Comprendre les fondements de la modélisation des données
+  - [X] Les entités et leurs attributs
+  - [X] Les relations et leurs cardinalités
+  - [X] Les identifiants et les clés
+  - [X] Les formes normales (1FN, 2FN, 3FN)
+  - [X] Les dépendances fonctionnelles
 
 ### Premier pas vers le MCD (Modèle Conceptuel de Données)
 - [ ] Découvrir les éléments du MCD
