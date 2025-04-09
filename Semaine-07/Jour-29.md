@@ -18,11 +18,11 @@
   - [X] Les dépendances fonctionnelles
 
 ### Premier pas vers le MCD (Modèle Conceptuel de Données)
-- [ ] Découvrir les éléments du MCD
-  - [ ] Identification des entités
-  - [ ] Définition des attributs
-  - [ ] Établissement des relations
-  - [ ] Détermination des cardinalités
+- [X] Découvrir les éléments du MCD
+  - [X] Identification des entités
+  - [X] Définition des attributs
+  - [X] Établissement des relations
+  - [X] Détermination des cardinalités
 
 ### Exercices pratiques
 - [ ] S'initier à la conception de MCD simples
