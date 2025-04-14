@@ -29,9 +29,9 @@
   - [X] Identification des entités principales (vols, réservations, passagers...)
   - [X] Listing exhaustif des informations à stocker
   - [X] Définition des règles de gestion
-- [ ] Concevoir le MCD complet pour l'agence de voyages
-  - [ ] Modélisation des entités avec leurs attributs
-  - [ ] Établissement des relations entre entités
-  - [ ] Spécification des cardinalités
-  - [ ] Vérification de la cohérence du modèle
+- [X] Concevoir le MCD complet pour l'agence de voyages
+  - [X] Modélisation des entités avec leurs attributs
+  - [X] Établissement des relations entre entités
+  - [X] Spécification des cardinalités
+  - [X] Vérification de la cohérence du modèle
 
