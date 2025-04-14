@@ -25,8 +25,8 @@
   - [X] Détermination des cardinalités
 
 ### Exercices pratiques
-- [ ] S'initier à la conception de MCD simples
-  - [ ] Analyse d'un cas simple (bibliothèque)
-  - [ ] Identification des entités et relations
-  - [ ] Dessin d'un premier MCD sur papier
-  - [ ] Discussion et amélioration du modèle 
+- [X] S'initier à la conception de MCD simples
+  - [X] Analyse d'un cas simple (bibliothèque)
+  - [X] Identification des entités et relations
+  - [X] Dessin d'un premier MCD sur papier
+  - [X] Discussion et amélioration du modèle 
