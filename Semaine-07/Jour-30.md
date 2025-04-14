@@ -17,11 +17,11 @@
   - [X] Gestion des contraintes
 
 ### Outils de modélisation
-- [ ] Découvrir les outils pour créer des MCD
-  - [ ] Présentation de différents logiciels (Looping, JMCAD, etc.)
-  - [ ] Création d'un MCD avec un outil numérique
-  - [ ] Fonctionnalités d'export et import
-  - [ ] Génération de scripts SQL
+- [X] Découvrir les outils pour créer des MCD
+  - [X] Présentation de différents logiciels (Looping, JMCAD, etc.)
+  - [X] Création d'un MCD avec un outil numérique
+  - [X] Fonctionnalités d'export et import
+  - [X] Génération de scripts SQL
 
 ### Brief Kéké Voyages : Conception MCD
 - [ ] Analyser le contexte et les besoins
