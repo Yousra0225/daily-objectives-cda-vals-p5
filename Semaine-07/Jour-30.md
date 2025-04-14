@@ -24,11 +24,11 @@
   - [X] Génération de scripts SQL
 
 ### Brief Kéké Voyages : Conception MCD
-- [ ] Analyser le contexte et les besoins
-  - [ ] Relecture du brief Kéké Voyages
-  - [ ] Identification des entités principales (vols, réservations, passagers...)
-  - [ ] Listing exhaustif des informations à stocker
-  - [ ] Définition des règles de gestion
+- [X] Analyser le contexte et les besoins
+  - [X] Relecture du brief Kéké Voyages
+  - [X] Identification des entités principales (vols, réservations, passagers...)
+  - [X] Listing exhaustif des informations à stocker
+  - [X] Définition des règles de gestion
 - [ ] Concevoir le MCD complet pour l'agence de voyages
   - [ ] Modélisation des entités avec leurs attributs
   - [ ] Établissement des relations entre entités
