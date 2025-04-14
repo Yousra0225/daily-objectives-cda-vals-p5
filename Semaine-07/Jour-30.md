@@ -9,12 +9,12 @@
   - [X] Les contraintes d'intégrité
 
 ### Règles de passage du MCD au MLD
-- [ ] Comprendre les règles de transformation
-  - [ ] Transformation des entités
-  - [ ] Transformation des associations 1:N
-  - [ ] Transformation des associations N:M
-  - [ ] Traitement des cardinalités minimales
-  - [ ] Gestion des contraintes
+- [X] Comprendre les règles de transformation
+  - [X] Transformation des entités
+  - [X] Transformation des associations 1:N
+  - [X] Transformation des associations N:M
+  - [X] Traitement des cardinalités minimales
+  - [X] Gestion des contraintes
 
 ### Outils de modélisation
 - [ ] Découvrir les outils pour créer des MCD
