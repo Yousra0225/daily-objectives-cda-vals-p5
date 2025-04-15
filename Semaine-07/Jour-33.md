@@ -27,8 +27,8 @@
   - [X] Préparer les réponses aux questions
 
 ### Bilan et perspectives
-- [ ] Faire le point sur les acquis
-  - [ ] Auto-évaluation des compétences
-  - [ ] Identification des points forts
-  - [ ] Définition des axes d'amélioration
-  - [ ] Perspectives d'évolution 
+- [X] Faire le point sur les acquis
+  - [X] Auto-évaluation des compétences
+  - [X] Identification des points forts
+  - [X] Définition des axes d'amélioration
+  - [X] Perspectives d'évolution 
