@@ -20,11 +20,11 @@
   - [X] Documenter le schéma
 
 ### Considérations d'optimisation
-- [ ] Comprendre les enjeux d'optimisation
-  - [ ] Principes d'indexation
-  - [ ] Normalisation vs dénormalisation
-  - [ ] Partitionnement logique
-  - [ ] Impact sur les performances
+- [X] Comprendre les enjeux d'optimisation
+  - [X] Principes d'indexation
+  - [X] Normalisation vs dénormalisation
+  - [X] Partitionnement logique
+  - [X] Impact sur les performances
 
 ### Projet de conception
 - [ ] Finaliser le MPD du projet
