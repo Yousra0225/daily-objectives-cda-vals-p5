@@ -4,8 +4,8 @@
 
 ### Préparation du Dossier Projet (DP)
 
-- [ ] Initialisation du repository selon les exigences du titre
-  - [ ] Création d'un README.md professionnel détaillant :
+- [X] Initialisation du repository selon les exigences du titre
+  - [X] Création d'un README.md professionnel détaillant :
     - [ ] Le contexte du projet
     - [ ] Les objectifs
     - [ ] Les technologies utilisées
