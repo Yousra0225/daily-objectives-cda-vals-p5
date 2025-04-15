@@ -1,9 +1,9 @@
 # Jour 32 - Jeudi 10 avril 2025
 
 ## Objectifs du jour
-- [ ] Comprendre le MPD (Modèle Physique de Données)
-- [ ] Concevoir un MPD à partir du MLD
-- [ ] Comprendre les enjeux d'optimisation
+- [X] Comprendre le MPD (Modèle Physique de Données)
+- [X] Concevoir un MPD à partir du MLD
+- [X] Comprendre les enjeux d'optimisation
 
 ### MPD (Modèle Physique de Données)
 - [ ] Comprendre les spécificités du MPD
