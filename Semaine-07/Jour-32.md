@@ -27,9 +27,9 @@
   - [X] Impact sur les performances
 
 ### Projet de conception
-- [ ] Finaliser le MPD du projet
-  - [ ] Compléter la documentation
-  - [ ] Préparer les schémas visuels
-  - [ ] Réviser la cohérence avec le MLD
-  - [ ] Anticiper les cas d'utilisation
+- [X] Finaliser le MPD du projet
+  - [X] Compléter la documentation
+  - [X] Préparer les schémas visuels
+  - [X] Réviser la cohérence avec le MLD
+  - [X] Anticiper les cas d'utilisation
 
