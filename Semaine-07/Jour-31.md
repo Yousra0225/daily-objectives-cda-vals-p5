@@ -23,14 +23,14 @@
   - [X] Optimisation du modèle
 
 ### Brief Kéké Voyages : Transformation MCD vers MLD
-- [ ] Appliquer les règles de passage au projet Kéké Voyages
-  - [ ] Transformation des entités en tables
-  - [ ] Gestion des relations 1:N
-  - [ ] Implémentation des associations N:M
-  - [ ] Vérification des cardinalités
-- [ ] Normaliser le modèle
-  - [ ] Application des formes normales
-  - [ ] Résolution des anomalies potentielles
-  - [ ] Optimisation des structures de données
-  - [ ] Documentation des choix de conception
+- [X] Appliquer les règles de passage au projet Kéké Voyages
+  - [X] Transformation des entités en tables
+  - [X] Gestion des relations 1:N
+  - [X] Implémentation des associations N:M
+  - [X] Vérification des cardinalités
+- [X] Normaliser le modèle
+  - [X] Application des formes normales
+  - [X] Résolution des anomalies potentielles
+  - [X] Optimisation des structures de données
+  - [X] Documentation des choix de conception
 
