@@ -13,11 +13,11 @@
   - [X] S'assurer de la qualité globale
 
 ### Documentation du projet
-- [ ] Préparer la documentation technique
-  - [ ] Rédiger le dictionnaire de données
-  - [ ] Documenter les choix de conception
-  - [ ] Créer les schémas et diagrammes
-  - [ ] Expliquer la logique des modèles
+- [X] Préparer la documentation technique
+  - [X] Rédiger le dictionnaire de données
+  - [X] Documenter les choix de conception
+  - [X] Créer les schémas et diagrammes
+  - [X] Expliquer la logique des modèles
 
 ### Présentation du projet
 - [ ] Préparer la présentation finale
