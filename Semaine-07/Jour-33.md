@@ -6,11 +6,11 @@
 - [X] Présenter les modèles conçus
 
 ### Finalisation des modèles
-- [ ] Réviser et améliorer les modèles
-  - [ ] Valider la cohérence entre MCD, MLD et MPD
-  - [ ] Vérifier la couverture des besoins
-  - [ ] Affiner les derniers détails
-  - [ ] S'assurer de la qualité globale
+- [X] Réviser et améliorer les modèles
+  - [X] Valider la cohérence entre MCD, MLD et MPD
+  - [X] Vérifier la couverture des besoins
+  - [X] Affiner les derniers détails
+  - [X] S'assurer de la qualité globale
 
 ### Documentation du projet
 - [ ] Préparer la documentation technique
