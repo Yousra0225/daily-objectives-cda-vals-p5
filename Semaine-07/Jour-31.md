@@ -3,11 +3,11 @@
 ## Mercredi 09/04/2025 :
 
 ### Le Modèle Logique de Données (MLD)
-- [ ] Comprendre le MLD et ses composants
-  - [ ] Les tables et les colonnes
-  - [ ] Les clés primaires et étrangères
-  - [ ] Les contraintes d'intégrité logiques
-  - [ ] La normalisation des données
+- [X] Comprendre le MLD et ses composants
+  - [X] Les tables et les colonnes
+  - [X] Les clés primaires et étrangères
+  - [X] Les contraintes d'intégrité logiques
+  - [X] La normalisation des données
 
 ### Techniques de normalisation
 - [ ] Appliquer les règles de normalisation
