@@ -13,11 +13,11 @@
   - [X] Considérations de performance
 
 ### Conception du MPD
-- [ ] Élaborer le schéma physique
-  - [ ] Transformer les entités en tables
-  - [ ] Définir les colonnes et types
-  - [ ] Spécifier les contraintes
-  - [ ] Documenter le schéma
+- [X] Élaborer le schéma physique
+  - [X] Transformer les entités en tables
+  - [X] Définir les colonnes et types
+  - [X] Spécifier les contraintes
+  - [X] Documenter le schéma
 
 ### Considérations d'optimisation
 - [ ] Comprendre les enjeux d'optimisation
