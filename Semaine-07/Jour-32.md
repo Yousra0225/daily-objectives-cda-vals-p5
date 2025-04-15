@@ -6,11 +6,11 @@
 - [X] Comprendre les enjeux d'optimisation
 
 ### MPD (Modèle Physique de Données)
-- [ ] Comprendre les spécificités du MPD
-  - [ ] Principes de modélisation physique
-  - [ ] Types de données disponibles
-  - [ ] Contraintes et règles
-  - [ ] Considérations de performance
+- [X] Comprendre les spécificités du MPD
+  - [X] Principes de modélisation physique
+  - [X] Types de données disponibles
+  - [X] Contraintes et règles
+  - [X] Considérations de performance
 
 ### Conception du MPD
 - [ ] Élaborer le schéma physique
