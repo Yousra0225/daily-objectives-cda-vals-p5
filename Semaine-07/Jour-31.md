@@ -10,10 +10,10 @@
   - [X] La normalisation des données
 
 ### Techniques de normalisation
-- [ ] Appliquer les règles de normalisation
-  - [ ] Identifier les dépendances fonctionnelles
-  - [ ] Éliminer les redondances
-  - [ ] Optimiser les structures de données
+- [X] Appliquer les règles de normalisation
+  - [X] Identifier les dépendances fonctionnelles
+  - [X] Éliminer les redondances
+  - [X] Optimiser les structures de données
 
 ### Passage du MLD au MPD (Modèle Physique de Données)
 - [ ] Comprendre les règles de transformation
