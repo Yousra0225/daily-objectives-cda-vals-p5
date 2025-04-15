@@ -16,11 +16,11 @@
   - [X] Optimiser les structures de données
 
 ### Passage du MLD au MPD (Modèle Physique de Données)
-- [ ] Comprendre les règles de transformation
-  - [ ] Choix des types de données
-  - [ ] Implémentation des contraintes
-  - [ ] Création des index
-  - [ ] Optimisation du modèle
+- [X] Comprendre les règles de transformation
+  - [X] Choix des types de données
+  - [X] Implémentation des contraintes
+  - [X] Création des index
+  - [X] Optimisation du modèle
 
 ### Brief Kéké Voyages : Transformation MCD vers MLD
 - [ ] Appliquer les règles de passage au projet Kéké Voyages
