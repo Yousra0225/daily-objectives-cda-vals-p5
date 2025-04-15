@@ -1,9 +1,9 @@
 # Jour 33 - Vendredi 11 avril 2025
 
 ## Objectifs du jour
-- [ ] Finaliser les modèles (MCD, MLD, MPD)
-- [ ] Préparer la documentation complète
-- [ ] Présenter les modèles conçus
+- [X] Finaliser les modèles (MCD, MLD, MPD)
+- [X] Préparer la documentation complète
+- [X] Présenter les modèles conçus
 
 ### Finalisation des modèles
 - [ ] Réviser et améliorer les modèles
