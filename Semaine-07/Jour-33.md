@@ -20,11 +20,11 @@
   - [X] Expliquer la logique des modèles
 
 ### Présentation du projet
-- [ ] Préparer la présentation finale
-  - [ ] Créer les supports visuels
-  - [ ] Structurer l'argumentation
-  - [ ] Mettre en avant les points forts
-  - [ ] Préparer les réponses aux questions
+- [X] Préparer la présentation finale
+  - [X] Créer les supports visuels
+  - [X] Structurer l'argumentation
+  - [X] Mettre en avant les points forts
+  - [X] Préparer les réponses aux questions
 
 ### Bilan et perspectives
 - [ ] Faire le point sur les acquis
