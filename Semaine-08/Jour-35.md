@@ -17,12 +17,12 @@
   - [X] Création du premier utilisateur
   - [X] Test de la connexion
 
-- [ ] Installation et configuration des outils
-  - [ ] pgAdmin 4
-    - [ ] Installation
-    - [ ] Configuration
-    - [ ] Première connexion
-    - [ ] Tour d'horizon de l'interface
+- [X] Installation et configuration des outils
+  - [X] pgAdmin 4
+    - [X] Installation
+    - [X] Configuration
+    - [X] Première connexion
+    - [X] Tour d'horizon de l'interface
   - [ ] psql
     - [ ] Installation
     - [ ] Variables d'environnement
