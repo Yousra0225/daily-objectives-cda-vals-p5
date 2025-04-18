@@ -35,12 +35,12 @@
     - [X] DROP USER
     - [X] Précautions à prendre
 
-- [ ] Gestion des droits
-  - [ ] Privilèges de base
-    - [ ] SELECT
-    - [ ] INSERT
-    - [ ] UPDATE
-    - [ ] DELETE
+- [X] Gestion des droits
+  - [X] Privilèges de base
+    - [X] SELECT
+    - [X] INSERT
+    - [X] UPDATE
+    - [X] DELETE
   - [ ] Attribution des droits
     - [ ] GRANT
     - [ ] Sur les tables
