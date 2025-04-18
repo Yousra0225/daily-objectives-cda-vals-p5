@@ -41,13 +41,13 @@
     - [X] INSERT
     - [X] UPDATE
     - [X] DELETE
-  - [ ] Attribution des droits
-    - [ ] GRANT
-    - [ ] Sur les tables
-    - [ ] Sur les bases de données
-  - [ ] Révocation des droits
-    - [ ] REVOKE
-    - [ ] Impact sur les utilisateurs
+  - [X] Attribution des droits
+    - [X] GRANT
+    - [X] Sur les tables
+    - [X] Sur les bases de données
+  - [X] Révocation des droits
+    - [X] REVOKE
+    - [X] Impact sur les utilisateurs
 
 - [ ] Bonnes pratiques de sécurité
   - [ ] Principe du moindre privilège
