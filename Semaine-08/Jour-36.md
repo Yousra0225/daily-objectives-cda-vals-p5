@@ -24,10 +24,10 @@
 
 ### SQL - Data Control Language (DCL) avec PostgreSQL
 
-- [ ] Gestion des utilisateurs
-  - [ ] Création d'utilisateurs
-    - [ ] CREATE USER
-    - [ ] Définition du mot de passe
+- [X] Gestion des utilisateurs
+  - [X] Création d'utilisateurs
+    - [X] CREATE USER
+    - [X] Définition du mot de passe
   - [ ] Modification d'utilisateurs
     - [ ] ALTER USER
     - [ ] Changement de mot de passe
