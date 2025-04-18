@@ -28,12 +28,12 @@
   - [X] Création d'utilisateurs
     - [X] CREATE USER
     - [X] Définition du mot de passe
-  - [ ] Modification d'utilisateurs
-    - [ ] ALTER USER
-    - [ ] Changement de mot de passe
-  - [ ] Suppression d'utilisateurs
-    - [ ] DROP USER
-    - [ ] Précautions à prendre
+  - [X] Modification d'utilisateurs
+    - [X] ALTER USER
+    - [X] Changement de mot de passe
+  - [X] Suppression d'utilisateurs
+    - [X] DROP USER
+    - [X] Précautions à prendre
 
 - [ ] Gestion des droits
   - [ ] Privilèges de base
