@@ -35,11 +35,11 @@
   - [X] Quand utiliser les index
   - [X] Impact sur les performances
 
-- [ ] Exercices pratiques
-  - [ ] Création d'une base de données pour un cas concret
-  - [ ] Mise en place des tables et relations
-  - [ ] Ajout des contraintes nécessaires
-  - [ ] Modification de structure existante
+- [X] Exercices pratiques
+  - [X] Création d'une base de données pour un cas concret
+  - [X] Mise en place des tables et relations
+  - [X] Ajout des contraintes nécessaires
+  - [X] Modification de structure existante
 
 ### SQL - Data Manipulation Language (DML) avec PostgreSQL
 
