@@ -32,9 +32,9 @@
     - [X] Classes et Objets
     - [X] Attributs et Méthodes
     - [X] Constructeurs
-  - [ ] Définir une classe avec attributs
-  - [ ] Créer une instance
-  - [ ] Appeler une méthode d'instance
+  - [X] Définir une classe avec attributs
+  - [X] Créer une instance
+  - [X] Appeler une méthode d'instance
 
 - [ ] Comprendre et corriger les erreurs
   - [ ] Lire un message de compilation
