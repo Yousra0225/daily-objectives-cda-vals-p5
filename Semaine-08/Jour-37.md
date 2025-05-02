@@ -15,12 +15,12 @@
     - [X] Texte (VARCHAR, TEXT)
     - [X] Dates (DATE, TIMESTAMP)
     - [X] Booléens
-  - [ ] CREATE TABLE
-  - [ ] ALTER TABLE
-    - [ ] Ajouter une colonne
-    - [ ] Modifier une colonne
-    - [ ] Supprimer une colonne
-  - [ ] DROP TABLE
+  - [X] CREATE TABLE
+  - [X] ALTER TABLE
+    - [X] Ajouter une colonne
+    - [X] Modifier une colonne
+    - [X] Supprimer une colonne
+  - [X] DROP TABLE
 
 - [ ] Gestion des contraintes
   - [ ] PRIMARY KEY
