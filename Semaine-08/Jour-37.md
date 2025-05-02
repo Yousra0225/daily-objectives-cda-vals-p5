@@ -85,7 +85,7 @@
     - [X] Différence avec DELETE
     - [X] Précautions à prendre
 
-- [ ] Exercices pratiques
-  - [ ] Requêtes de sélection complexes
-  - [ ] Manipulation de données réelles
-  - [ ] Cas pratiques métier
+- [X] Exercices pratiques
+  - [X] Requêtes de sélection complexes
+  - [X] Manipulation de données réelles
+  - [X] Cas pratiques métier
