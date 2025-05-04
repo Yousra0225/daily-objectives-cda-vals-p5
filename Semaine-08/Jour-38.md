@@ -22,7 +22,7 @@
 - [X] Vues et Vues Matérialisées
   - [X] Créer une vue
   - [X] Limites d'une vue
-  - [ ] Créer une vue matérialisée
+  - [X] Créer une vue matérialisée
   - [ ] Rafraîchir une vue matérialisée
   
 - [ ] Séquences et Sérialisation
