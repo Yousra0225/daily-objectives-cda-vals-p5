@@ -2,11 +2,11 @@
 
 ## Objectifs du jour
 
-- [ ] Finaliser les dailys précédents
+- [X] Finaliser les dailys précédents
 
 ### SQL Avancé
 
-- [ ] Programmation SQL
+- [X] Programmation SQL
   - [ ] Comprendre les blocs anonymes
   - [ ] Créer et appeler une procédure stockée
   - [ ] Créer et utiliser une fonction
