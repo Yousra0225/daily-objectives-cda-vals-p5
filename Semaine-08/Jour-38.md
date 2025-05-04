@@ -19,8 +19,8 @@
   - [ ] Créer un trigger BEFORE ou AFTER
   - [X] Appliquer un trigger sur INSERT, UPDATE ou DELETE
   
-- [ ] Vues et Vues Matérialisées
-  - [ ] Créer une vue
+- [X] Vues et Vues Matérialisées
+  - [X] Créer une vue
   - [ ] Limites d'une vue
   - [ ] Créer une vue matérialisée
   - [ ] Rafraîchir une vue matérialisée
