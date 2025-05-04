@@ -10,7 +10,7 @@
   - [X] Comprendre les blocs anonymes
   - [X] Créer et appeler une procédure stockée
   - [X] Créer et utiliser une fonction
-  - [ ] Utiliser les paramètres IN, OUT, INOUT
+  - [X] Utiliser les paramètres IN, OUT, INOUT
   - [ ] Gérer les erreurs avec EXCEPTION WHEN
 
 - [ ] Triggers
