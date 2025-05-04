@@ -32,7 +32,7 @@
     - [X] CURRVAL
     - [X] SETVAL
   - [X] Associer une séquence à une colonne
-  - [ ] Différence entre SERIAL, BIGSERIAL, IDENTITY
+  - [X] Différence entre SERIAL, BIGSERIAL, IDENTITY
 
 - [ ] CTE (Common Table Expressions)
   - [ ] Comprendre le principe d'un CTE
