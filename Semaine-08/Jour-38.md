@@ -31,7 +31,7 @@
     - [X] NEXTVAL
     - [X] CURRVAL
     - [X] SETVAL
-  - [ ] Associer une séquence à une colonne
+  - [X] Associer une séquence à une colonne
   - [ ] Différence entre SERIAL, BIGSERIAL, IDENTITY
 
 - [ ] CTE (Common Table Expressions)
