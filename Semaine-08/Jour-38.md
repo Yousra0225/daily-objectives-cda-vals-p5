@@ -27,10 +27,10 @@
   
 - [ ] Séquences et Sérialisation
   - [X] Créer une séquence
-  - [ ] Utiliser des séquences 
-    - [ ] NEXTVAL
-    - [ ] CURRVAL
-    - [ ] SETVAL
+  - [X] Utiliser des séquences 
+    - [X] NEXTVAL
+    - [X] CURRVAL
+    - [X] SETVAL
   - [ ] Associer une séquence à une colonne
   - [ ] Différence entre SERIAL, BIGSERIAL, IDENTITY
 
