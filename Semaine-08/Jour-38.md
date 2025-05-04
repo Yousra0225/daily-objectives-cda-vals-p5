@@ -21,7 +21,7 @@
   
 - [X] Vues et Vues Matérialisées
   - [X] Créer une vue
-  - [ ] Limites d'une vue
+  - [X] Limites d'une vue
   - [ ] Créer une vue matérialisée
   - [ ] Rafraîchir une vue matérialisée
   
