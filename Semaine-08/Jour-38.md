@@ -26,7 +26,7 @@
   - [X] Rafraîchir une vue matérialisée
   
 - [ ] Séquences et Sérialisation
-  - [ ] Créer une séquence
+  - [X] Créer une séquence
   - [ ] Utiliser des séquences 
     - [ ] NEXTVAL
     - [ ] CURRVAL
