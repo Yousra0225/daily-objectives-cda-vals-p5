@@ -17,7 +17,7 @@
   - [X] Comprendre le rôle des triggers
   - [X] Créer une fonction de trigger
   - [ ] Créer un trigger BEFORE ou AFTER
-  - [ ] Appliquer un trigger sur INSERT, UPDATE ou DELETE
+  - [X] Appliquer un trigger sur INSERT, UPDATE ou DELETE
   
 - [ ] Vues et Vues Matérialisées
   - [ ] Créer une vue
