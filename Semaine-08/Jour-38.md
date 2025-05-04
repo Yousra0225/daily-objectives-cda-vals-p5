@@ -13,8 +13,8 @@
   - [X] Utiliser les paramètres IN, OUT, INOUT
   - [X] Gérer les erreurs avec EXCEPTION WHEN
 
-- [ ] Triggers
-  - [ ] Comprendre le rôle des triggers
+- [X] Triggers
+  - [X] Comprendre le rôle des triggers
   - [ ] Créer une fonction de trigger
   - [ ] Créer un trigger BEFORE ou AFTER
   - [ ] Appliquer un trigger sur INSERT, UPDATE ou DELETE
