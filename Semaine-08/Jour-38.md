@@ -7,7 +7,7 @@
 ### SQL Avancé
 
 - [X] Programmation SQL
-  - [ ] Comprendre les blocs anonymes
+  - [X] Comprendre les blocs anonymes
   - [ ] Créer et appeler une procédure stockée
   - [ ] Créer et utiliser une fonction
   - [ ] Utiliser les paramètres IN, OUT, INOUT
