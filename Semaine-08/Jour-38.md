@@ -15,7 +15,7 @@
 
 - [X] Triggers
   - [X] Comprendre le rôle des triggers
-  - [ ] Créer une fonction de trigger
+  - [X] Créer une fonction de trigger
   - [ ] Créer un trigger BEFORE ou AFTER
   - [ ] Appliquer un trigger sur INSERT, UPDATE ou DELETE
   
