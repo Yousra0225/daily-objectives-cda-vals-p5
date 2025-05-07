@@ -8,7 +8,7 @@
   - [X] Impérative
   - [X] Procédurale
   - [X] Orientée objet
-  - [ ] Fonctionnelle
+  - [X] Fonctionnelle
 - [ ] Découverte des concepts clés de la POO :
   - [ ] Classe
   - [ ] Objet
