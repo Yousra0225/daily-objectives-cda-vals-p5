@@ -9,12 +9,12 @@
   - [X] Procédurale
   - [X] Orientée objet
   - [X] Fonctionnelle
-- [ ] Découverte des concepts clés de la POO :
-  - [ ] Classe
-  - [ ] Objet
-  - [ ] Attribut
-  - [ ] Méthode
-  - [ ] Instanciation
-  - [ ] Constructeur
-  - [ ] Accesseurs
-  - [ ] Encapsulation
+- [X] Découverte des concepts clés de la POO :
+  - [X] Classe
+  - [X] Objet
+  - [X] Attribut
+  - [X] Méthode
+  - [X] Instanciation
+  - [X] Constructeur
+  - [X] Accesseurs
+  - [X] Encapsulation
