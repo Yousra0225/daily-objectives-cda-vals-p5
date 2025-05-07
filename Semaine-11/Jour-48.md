@@ -7,7 +7,7 @@
 - [X] Découverte des types de programmation possibles (avantages et inconvénients de chacun)
   - [X] Impérative
   - [X] Procédurale
-  - [ ] Orientée objet
+  - [X] Orientée objet
   - [ ] Fonctionnelle
 - [ ] Découverte des concepts clés de la POO :
   - [ ] Classe
