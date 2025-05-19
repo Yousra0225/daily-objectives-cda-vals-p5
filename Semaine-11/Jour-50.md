@@ -6,6 +6,6 @@
 
 - [X] Gestion des erreurs / Gérer les exceptions
   - [X] Utilisation des exceptions
-  - [ ] Utilisation de try-catch-finally
+  - [X] Utilisation de try-catch-finally
   - [ ] Propagation des exceptions avec throws
   - [ ] Création d'exceptions personnalisées
