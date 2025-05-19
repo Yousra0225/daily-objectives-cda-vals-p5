@@ -5,7 +5,7 @@
 ### Java - Gestion des Erreurs et Exceptions
 
 - [X] Gestion des erreurs / Gérer les exceptions
-  - [ ] Utilisation des exceptions
+  - [X] Utilisation des exceptions
   - [ ] Utilisation de try-catch-finally
   - [ ] Propagation des exceptions avec throws
   - [ ] Création d'exceptions personnalisées
