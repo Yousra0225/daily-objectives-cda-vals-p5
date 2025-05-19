@@ -9,11 +9,11 @@
   - [X] Notion de classes abstraites
   - [X] Notion d'interface
 
-- [ ] Découvrir les Collections Java
-  - [ ] List (ArrayList, LinkedList)
-  - [ ] Set (HashSet, TreeSet)
-  - [ ] Map (HashMap, TreeMap)
-  - [ ] Utilisation des Generics
+- [X] Découvrir les Collections Java
+  - [X] List (ArrayList, LinkedList)
+  - [X] Set (HashSet, TreeSet)
+  - [X] Map (HashMap, TreeMap)
+  - [X] Utilisation des Generics
 
 - [ ] Initiation aux bonnes pratiques
   - [ ] Découverte du principe SOLID
