@@ -8,4 +8,4 @@
   - [X] Utilisation des exceptions
   - [X] Utilisation de try-catch-finally
   - [X] Propagation des exceptions avec throws
-  - [ ] Création d'exceptions personnalisées
+  - [X] Création d'exceptions personnalisées
