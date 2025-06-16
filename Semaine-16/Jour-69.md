@@ -12,8 +12,8 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
   - [X] Identifier les problèmes que Docker résout
   - [X] Comprendre les avantages de Docker
 
-- [ ] Installation de Docker
-  - [ ] Installation de Docker Desktop (Windows/Mac) ou Docker Engine (Linux)
+- [X] Installation de Docker
+  - [X] Installation de Docker Desktop (Windows/Mac) ou Docker Engine (Linux)
   - [ ] Configuration de l'environnement
   - [ ] Vérification de l'installation
   - [ ] Premier test avec "Hello World"
