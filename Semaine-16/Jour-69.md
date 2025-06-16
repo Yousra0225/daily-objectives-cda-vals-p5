@@ -8,7 +8,7 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 
 - [X] Découverte de Docker
   - [X] Comprendre la différence entre Bare Metal, Virtual Machine et Container
-  - [ ] Comprendre ce qu'est Docker
+  - [X] Comprendre ce qu'est Docker
   - [ ] Identifier les problèmes que Docker résout
   - [ ] Comprendre les avantages de Docker
 
