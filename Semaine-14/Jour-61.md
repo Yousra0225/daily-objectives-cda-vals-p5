@@ -7,4 +7,4 @@
 - [X] Correction entre pairs du Brief Corpo Event
   - [X] Réalisation de la grille d'évaluation
   - [X] Correction croisée
-- [ ] Avancement du projet Fil Rouge
+- [X] Avancement du projet Fil Rouge
