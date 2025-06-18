@@ -4,4 +4,4 @@
 
 ### Brief POO et Conception UML
 
-- [ ] Brief Corpo Event
+- [X] Brief Corpo Event
