@@ -4,8 +4,8 @@
 
 ### Brief NetStream
 
-- [ ] Sauvegarde de la base de données
-  - [ ] Réalisation du script d'extraction
-  - [ ] Mettre en place la politique de rétention
-  - [ ] Automatiser
-  - [ ] Réaliser une documentation
+- [X] Sauvegarde de la base de données
+  - [X] Réalisation du script d'extraction
+  - [X] Mettre en place la politique de rétention
+  - [X] Automatiser
+  - [X] Réaliser une documentation
