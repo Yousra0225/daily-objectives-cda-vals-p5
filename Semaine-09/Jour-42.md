@@ -4,18 +4,18 @@
 
 ### Brief "NetStream" - Fonctionnalités avancées
 
-- [ ] Développement des requêtes de base
-  - [ ] Sélection et filtrage
-  - [ ] Utilisation des fonctions
+- [X] Développement des requêtes de base
+  - [X] Sélection et filtrage
+  - [X] Utilisation des fonctions
 
-- [ ] Requêtes complexes
-  - [ ] Techniques avancées
-  - [ ] Cas d'utilisation métier
+- [X] Requêtes complexes
+  - [X] Techniques avancées
+  - [X] Cas d'utilisation métier
 
-- [ ] Manipulation des données
-  - [ ] Opérations CRUD
-  - [ ] Gestion des transactions
+- [X] Manipulation des données
+  - [X] Opérations CRUD
+  - [X] Gestion des transactions
 
-- [ ] Optimisation
-  - [ ] Analyse des performances
-  - [ ] Amélioration des requêtes
+- [X] Optimisation
+  - [X] Analyse des performances
+  - [X] Amélioration des requêtes
