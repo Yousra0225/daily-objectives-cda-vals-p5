@@ -4,5 +4,5 @@
 
 ### Atelier CV et entretien
 
-- [ ] Réalisation du CV avec Camille
-- [ ] Réalisation du profil Linkedin avec Camille
+- [X] Réalisation du CV avec Camille
+- [X] Réalisation du profil Linkedin avec Camille
