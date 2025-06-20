@@ -4,10 +4,10 @@
 
 ### Brief "NetStream" - Conception et création
 
-- [ ] Finalisation de la conception
-  - [ ] Affinage du modèle de données
-  - [ ] Réalisation du Modèle Logique de Données
-  - [ ] Réalisation du Modèle Physique de données
-  - [ ] Documentation du modèle
+- [X] Finalisation de la conception
+  - [X] Affinage du modèle de données
+  - [X] Réalisation du Modèle Logique de Données
+  - [X] Réalisation du Modèle Physique de données
+  - [X] Documentation du modèle
 
 
