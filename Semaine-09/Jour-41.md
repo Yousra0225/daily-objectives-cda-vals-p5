@@ -4,15 +4,15 @@
 
 ### Brief "NetStream" - Alimentation et requêtes
 
-- [ ] Réalisation du benchmark
-  - [ ] Etude des SGBD existants
-    - [ ] Avantages / Inconvénients
-  - [ ] Réalisation d'une documentation explicative
+- [X] Réalisation du benchmark
+  - [X] Etude des SGBD existants
+    - [X] Avantages / Inconvénients
+  - [X] Réalisation d'une documentation explicative
 
-- [ ] Préparation des données
-  - [ ] Création de jeux de données
-  - [ ] Vérification de l'intégrité
+- [X] Préparation des données
+  - [X] Création de jeux de données
+  - [X] Vérification de l'intégrité
 
-- [ ] Implémentation des jointures
-  - [ ] Relations entre tables
-  - [ ] Optimisation
+- [X] Implémentation des jointures
+  - [X] Relations entre tables
+  - [X] Optimisation
