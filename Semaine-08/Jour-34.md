@@ -26,31 +26,31 @@
   - [X] Normalisation
   - [X] Intégrité référentielle
   
-- [ ] Vue d'ensemble des différents types de commandes SQL
-  - [ ] DDL (Data Definition Language)
-  - [ ] DML (Data Manipulation Language)
-  - [ ] DCL (Data Control Language)
-  - [ ] TCL (Transaction Control Language)
+- [X] Vue d'ensemble des différents types de commandes SQL
+  - [X] DDL (Data Definition Language)
+  - [X] DML (Data Manipulation Language)
+  - [X] DCL (Data Control Language)
+  - [X] TCL (Transaction Control Language)
 
 ### Introduction à PostgreSQL
 
-- [ ] Découverte de PostgreSQL
-  - [ ] Histoire et philosophie de PostgreSQL
-  - [ ] Différences avec d'autres SGBD
-  - [ ] Avantages de PostgreSQL
-  - [ ] Cas d'usage adaptés
+- [X] Découverte de PostgreSQL
+  - [X] Histoire et philosophie de PostgreSQL
+  - [X] Différences avec d'autres SGBD
+  - [X] Avantages de PostgreSQL
+  - [X] Cas d'usage adaptés
 
-- [ ] Architecture de PostgreSQL
-  - [ ] Structure générale
-  - [ ] Processus et mémoire
-  - [ ] Systèmes de fichiers
-  - [ ] Catalogues système
+- [X] Architecture de PostgreSQL
+  - [X] Structure générale
+  - [X] Processus et mémoire
+  - [X] Systèmes de fichiers
+  - [X] Catalogues système
 
-- [ ] Fonctionnalités spécifiques
-  - [ ] Types de données avancés
-  - [ ] Héritage de tables
-  - [ ] Schémas et espaces de noms
-  - [ ] Extensions disponibles
+- [X] Fonctionnalités spécifiques
+  - [X] Types de données avancés
+  - [X] Héritage de tables
+  - [X] Schémas et espaces de noms
+  - [X] Extensions disponibles
 
 
 
