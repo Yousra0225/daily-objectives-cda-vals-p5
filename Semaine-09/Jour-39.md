@@ -4,18 +4,18 @@
 
 ### Brief "NetStream" - Démarrage du projet
 
-- [ ] Mise en place de l'environnement de travail
-  - [ ] Organisation du code source
-  - [ ] Documentation initiale
+- [X] Mise en place de l'environnement de travail
+  - [X] Organisation du code source
+  - [X] Documentation initiale
 
-- [ ] Analyse du brief
-  - [ ] Compréhension des besoins
-  - [ ] Identification des contraintes
+- [X] Analyse du brief
+  - [X] Compréhension des besoins
+  - [X] Identification des contraintes
 
-- [ ] Conception de la base de données
-  - [ ] Modélisation des données
-  - [ ] Définition des relations
+- [X] Conception de la base de données
+  - [X] Modélisation des données
+  - [X] Définition des relations
 
-- [ ] Planification
-  - [ ] Organisation des tâches
-  - [ ] Définition des priorités
+- [X] Planification
+  - [X] Organisation des tâches
+  - [X] Définition des priorités
