@@ -14,9 +14,9 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 
 - [X] Installation de Docker
   - [X] Installation de Docker Desktop (Windows/Mac) ou Docker Engine (Linux)
-  - [ ] Configuration de l'environnement
-  - [ ] Vérification de l'installation
-  - [ ] Premier test avec "Hello World"
+  - [X] Configuration de l'environnement
+  - [X] Vérification de l'installation
+  - [X] Premier test avec "Hello World"
 
 - [ ] Comprendre les concepts de base
   - [ ] Images vs Conteneurs
