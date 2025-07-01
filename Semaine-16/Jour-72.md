@@ -6,29 +6,28 @@
 
 Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 
-- [ ] Gestion du stockage Docker
   - [ ] Comprendre les différents types de stockage
-    - [ ] Volumes Docker
-    - [ ] Bind Mounts
-    - [ ] tmpfs mounts
-  - [ ] Créer et gérer des volumes
-  - [ ] Partager des données entre conteneurs
+    - [X] Volumes Docker
+    - [X] Bind Mounts
+    - [X] tmpfs mounts
+  - [X] Créer et gérer des volumes
+  - [X] Partager des données entre conteneurs
 
-- [ ] Réseautage Docker
-  - [ ] Comprendre les réseaux Docker par défaut
-  - [ ] Créer des réseaux personnalisés
-  - [ ] Connecter des conteneurs
-  - [ ] Gérer la communication inter-conteneurs
+- [X] Réseautage Docker
+  - [X] Comprendre les réseaux Docker par défaut
+  - [X] Créer des réseaux personnalisés
+  - [X] Connecter des conteneurs
+  - [X] Gérer la communication inter-conteneurs
 
-- [ ] Introduction à Docker Compose
-  - [ ] Comprendre l'utilité de Docker Compose
-  - [ ] Structure du fichier docker-compose.yml
-  - [ ] Commandes de base
-    - [ ] docker-compose up/down
-    - [ ] docker-compose ps
-    - [ ] docker-compose logs
+- [X] Introduction à Docker Compose
+  - [X] Comprendre l'utilité de Docker Compose
+  - [X] Structure du fichier docker-compose.yml
+  - [X] Commandes de base
+    - [X] docker-compose up/down
+    - [X] docker-compose ps
+    - [X] docker-compose logs
   
-- [ ] Travaux Pratiques
-  - [ ] Créer une application multi-conteneurs
-  - [ ] Configurer les volumes et le réseau
-  - [ ] Déployer avec Docker Compose 
+- [X] Travaux Pratiques
+  - [X] Créer une application multi-conteneurs
+  - [X] Configurer les volumes et le réseau
+  - [X] Déployer avec Docker Compose 
